@@ -20,11 +20,11 @@ Ingénieur Systèmes et Réseaux en apprentissage, passionné par l'architecture
         <h3>🎯 Focus & Intérêts</h3>
         <ul>
           <li>⚙️ <b>Focus Actuel :</b> Automatisation de déploiements d'infrastructures (IaC), conteneurisation et sécurité.</li>
-          <li>⛺ <b>Passions :</b> Auto-hébergement (HomeLab), sécurité matérielle, et bivouac/randonnée en montagne.</li>
+          <li>❤️‍🔥 <b>Passions :</b> Auto-hébergement (HomeLab) et sécurité matérielle.</li>
         </ul>
       </td>
       <td valign="top" width="50%">
-        <h3>🚀 Projets Majeurs</h3>
+        <h3>🚀 Projets Majeurs 💡</h3>
         <ul>
           <li>🪞 <b>Project Mirix :</b> Conception d'un miroir domotique intelligent (reconnaissance faciale, gestion multi-utilisateurs et application mobile dédiée).</li>
           <li>🎮 <b>PyramideParty :</b> Développement et optimisation de l'architecture d'une application mobile de jeu.</li>
